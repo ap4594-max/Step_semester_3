@@ -1,7 +1,6 @@
 package string.class_problems;
 
 import java.util.Random;
-import java.util.Scanner;
 
 /**
  * Problem 1: Rock-Paper-Scissors Game
