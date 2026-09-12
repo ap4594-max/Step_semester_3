@@ -1,4 +1,4 @@
-package string.class_problems;
+package stringConcepts.class_problems;
 
 /**
  * Problem 3: BMI Calculator for a Team

@@ -1,4 +1,4 @@
-package string.assignment_problems;
+package stringConcepts.assignment_problems;
 
 /**
  * Problem 3: The Traffic Signal Streak Analyzer

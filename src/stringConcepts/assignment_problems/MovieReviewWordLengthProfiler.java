@@ -1,4 +1,4 @@
-package string.assignment_problems;
+package stringConcepts.assignment_problems;
 
 /**
  * Problem 5: The Movie Review Word Length Profiler

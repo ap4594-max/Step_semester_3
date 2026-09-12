@@ -1,4 +1,4 @@
-package string.class_problems;
+package stringConcepts.class_problems;
 
 /**
  * Problem 4: First Non-Repeating Character

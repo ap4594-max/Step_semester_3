@@ -1,4 +1,4 @@
-package string.assignment_problems;
+package stringConcepts.assignment_problems;
 
 /**
  * Problem 2: The Typing Speed Test Accuracy Checker
