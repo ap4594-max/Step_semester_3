@@ -1,6 +1,5 @@
 package string.assignment_problems;
 
-import java.util.Arrays;
 
 /**
  * Problem 1: The Exam Hall Seat Duplication Checker
