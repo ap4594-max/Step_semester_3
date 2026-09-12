@@ -47,3 +47,39 @@ Step_semester_3/
 **Notes:**
 - Plain Java implementation without external build tools (no Maven/Gradle).
 - Fully compiled and verified with Java 23.
+
+---
+
+## Week 1 Assignment
+
+**Date:** 2026-09-12
+
+**Topic:** Week 1 Assignment — 5 Problems (Strings, Arrays & Logic)
+
+**Branch:** `feature/assignment_1`
+
+### Problems Solved:
+1. **The Exam Hall Seat Duplication Checker** (`ExamSeatDuplicationChecker.java`)
+   - Scans an array of seat numbers using nested loops to detect and flag duplicates without using Collections.
+   - Outputs identified duplicate seat numbers or confirms no duplicates exist.
+2. **The Typing Speed Test Accuracy Checker** (`TypingSpeedAccuracyChecker.java`)
+   - Traverses reference and typed passages character-by-character using `charAt()`.
+   - Computes match counts, accuracy percentage, and pinpoints the 1-based position and characters of the first mismatch.
+3. **The Traffic Signal Streak Analyzer** (`TrafficSignalStreakAnalyzer.java`)
+   - Analyzes traffic signal color logs in a single traversal to track consecutive identical signals.
+   - Reports the longest continuous streak and its repeating character.
+4. **The Warehouse Inventory Balancer** (`WarehouseInventoryBalancer.java`)
+   - Compares inventory counts between Section A and Section B to confirm total balance.
+   - Identifies the highest-quantity item across the entire warehouse with section name and 1-based item index.
+5. **The Movie Review Word Length Profiler** (`MovieReviewWordLengthProfiler.java`)
+   - Splits review text into individual words using `split()`.
+   - Classifies and counts word lengths into Short (1–4), Medium (5–8), and Long (9+) categories for moderation analysis.
+
+**Status:**
+- Merged into develop
+- Merged into main
+
+**Notes:**
+- Implementation strictly uses primitive arrays, loops, and String operations without Collections.
+- Fully compiled and verified with Java 23.
+
